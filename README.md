@@ -16,6 +16,7 @@ Music Streaming Application , designed as a part of internship under TASK 3 of W
 
 
 # Tools used
+Front-End
 
 * HTML
 * CSS
