@@ -1,5 +1,4 @@
 # CodeClause_Music-Streaming-Application
-# CodeClause_Music-Streaming-Application
 # Task 3- Music-Streaming-Application
 
 Music Streaming Application , designed as a part of internship under TASK 3 of Web Development and Designing ,is a dynamic website application which can be used to hear any type of songs just added in the website.In this application we can hear some inbuild songs likes:
